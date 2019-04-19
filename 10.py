@@ -4,6 +4,6 @@ def insert(string):
 	val=' '
 	val=string[-2:]*4
 	return val
-
+print("tanya")
 print(insert("python"))
 print(insert("exercise"))
